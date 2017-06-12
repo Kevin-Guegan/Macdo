@@ -26,5 +26,10 @@ namespace Macdo
         {
             this.InitializeComponent();
         }
+
+        private void Button_Click(System.Object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
